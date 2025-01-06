@@ -1,2 +1,4 @@
 # Regional_Sales_Analysis
  Analysing Trend, Identifying pattern and cause for loss in 4 regional coffee shops.
+Dataset acquired from Kaggle attribution to the author Jack Chang. Link: https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113
+
